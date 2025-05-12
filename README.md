@@ -9,7 +9,7 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 ## 📂 Índice
 
 ### 1. Cadenas de Markov
-#### 1.1 CM1_EjemplodeProcesos
+#### 1.1 CM1_EjemplosdeProcesos
 * Definición de Proceso Estocástico
 * Proceso a Ensayos Independientes
 * Caminata Aleatoria en $\mathbb{Z}$

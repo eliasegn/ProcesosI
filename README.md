@@ -25,9 +25,9 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 * Simulación de Evolución de Distribuciones
 * Tiempo Medio de Retorno
 #### 1.5 CM5_DistribucionesEstacionarias
-* Simulación de Evolución de una cadena
+* Simulación de Evolución de una Cadena
 * Distribuciones Estacionarias
-* Cadena de dos estados
+* Cadena de dos Estados
 #### 1.6 CM6_DistribuciónLímite
 * Distribución Límite
 * Visualización de Convergencia

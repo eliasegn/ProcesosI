@@ -36,7 +36,7 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 
 ### 2. Proceso Poisson
 #### 2.1 Simulación del Proceso Poisson
-* Visualización de Funciones Escalonadas
+* Visualización de Procesos Escalonados
 * Simulación por Número de Ocurrencias
 * Simulación por Tiempos de Llegada
 #### 2.2 Suma de Procesos Poisson

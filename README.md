@@ -17,7 +17,7 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 * Urna de Ehrenfest
 * Ruina del Jugador
 * Tiempos de Paro
-#### 1.3 CM3_MatrizdeTransiciónyDistInicial
+#### 1.3 CM3_MatrizdeTransiciónyDistribuciónInicial
 * Operaciones de Matrices en Python
 * Simulación de Cadenas de Markov
 * Ejemplos de Distribuciones Iniciales

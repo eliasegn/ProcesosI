@@ -34,6 +34,27 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 * Visualización de Convergencia
 * Ejercicios de Aplicaciones
 
+### 2. Proceso Poisson
+#### 2.1 Simulación del Proceso Poisson
+* Visualización de Funciones Escalonadas
+* Simulación por Número de Ocurrencias
+* Simulación por Tiempos de Llegada
+#### 2.2 Suma de Procesos Poisson
+* TBC
+* TBC
+* TBC
+#### 2.3 Adelgazamiento de Proceso Poisson
+* TBC
+* TBC
+* TBC
+#### 2.4 Proceso Poisson No Homogéneo y Compuesto
+* TBC
+* TBC
+* Modelo de Cramer-Lundberg
+*
+* 
+
+
 
 
 

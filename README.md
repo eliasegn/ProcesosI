@@ -39,20 +39,19 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 * Visualización de Procesos Escalonados
 * Simulación por Número de Ocurrencias
 * Simulación por Tiempos de Llegada
-#### 2.2 Suma de Procesos Poisson
+#### 2.2 PP2_SumadeProcesosPoisson
 * TBC
 * TBC
 * TBC
-#### 2.3 Adelgazamiento de Proceso Poisson
+#### 2.3 PP3_AdelgazamientodeProcesoPoisson
 * TBC
 * TBC
 * TBC
-#### 2.4 Proceso Poisson No Homogéneo y Compuesto
+#### 2.4 PP4_ProcesoPoissonNoHomogéneoycompuesto
 * TBC
 * TBC
 * Modelo de Cramer-Lundberg
-*
-* 
+
 
 
 

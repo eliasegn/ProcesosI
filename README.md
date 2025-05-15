@@ -35,7 +35,7 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 * Ejercicios de Aplicaciones
 
 ### 2. Proceso Poisson
-#### 2.1 Simulación del Proceso Poisson
+#### 2.1 PP1_SimulacióndelProcesoPoisson
 * Visualización de Procesos Escalonados
 * Simulación por Número de Ocurrencias
 * Simulación por Tiempos de Llegada

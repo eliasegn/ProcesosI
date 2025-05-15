@@ -32,7 +32,7 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 #### 1.6 CM6_DistribuciónLímite
 * Distribución Límite
 * Visualización de Convergencia
-* Ejercicios de Aplicaciones
+* Ejercicios de Aplicación
 
 ### 2. Proceso Poisson
 #### 2.1 PP1_SimulacióndelProcesoPoisson

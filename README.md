@@ -40,9 +40,8 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 * Simulación por Número de Ocurrencias
 * Simulación por Tiempos de Llegada
 #### 2.2 PP2_SumayAdelgazamientodeProcesosPoisson
-* Distribución Condicional del Proceso Poisson
 * Suma de Procesos Poisson
-* Adelgazamiento de Procesos Poisson
+* Adelgazamiento de un Proceso Poisson
 #### 2.3 PP3_ProcesoPoissonNoHomogéneo
 * Simulación del Proceso Poisson no Homogéneo
 * Problemas de Aplicación

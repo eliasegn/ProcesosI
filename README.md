@@ -51,7 +51,7 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 * Modelo de Cramer-Lundberg
 
 ### 3. Martingalas y Movimiento Browniano
-#### 3.1 Martingalas
+#### 3.1 MMB1_Martingalas
 * Simulación de Estrategias de Juego
 * Modelo Binomial
 * Ruina del Jugador

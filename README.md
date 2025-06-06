@@ -50,16 +50,16 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 * Simulación del Proceso Poisson Compuesto
 * Modelo de Cramer-Lundberg
 
-* ### 3. Martingalas y Movimiento Browniano
-* #### 3.1 Martingalas
+### 3. Martingalas y Movimiento Browniano
+#### 3.1 Martingalas
 * Simulación de Estrategias de Juego
 * Modelo Binomial
 * Ruina del Jugador
-* #### 3.2 MMB2_MovimientoBrowniano
+#### 3.2 MMB2_MovimientoBrowniano
 * Simulación del MB desde una Caminata Aleatoria
 * Simulación del MB usando Incrementos Normales
 * Estimación de Parámetros
-* #### 3.3 MMB3_MovimientoBrownianoGeométrico
+#### 3.3 MMB3_MovimientoBrownianoGeométrico
 * Ecuación de Black-Scholes y Valuación de Opciones Financieras
 * Estimación de Parámetros
 * Bases de Datos de Activos Financieros y Ajuste

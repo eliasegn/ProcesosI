@@ -43,9 +43,9 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 * Suma de Procesos Poisson
 * Adelgazamiento de un Proceso Poisson
 #### 2.3 PP3_ProcesoPoissonNoHomogéneo
+* Aceptación-Rechazo
 * Simulación del Proceso Poisson no Homogéneo
 * Estimación de la Intensidad
-* Problemas de Aplicación
 #### 2.4 PP4_ProcesoPoissonCompuesto
 * Simulación del Proceso Poisson Compuesto
 * Modelo de Cramer-Lundberg

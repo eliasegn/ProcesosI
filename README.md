@@ -56,11 +56,11 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 * Ruina del Jugador
 
 ### 4. Movimiento Browniano
-#### 4.1 MB2_MovimientoBrowniano
+#### 4.1 MB1_MovimientoBrowniano
 * Simulación del Movimiento Browniano desde una Caminata Aleatoria
 * Simulación del Movimiento Browniano usando Incrementos Normales
 * Puente Browniano
-#### 4.2 MB3_MovimientoBrownianoGeométrico
+#### 4.2 MB2_MovimientoBrownianoGeométrico
 * Ecuación de Black-Scholes y Valuación de Opciones Financieras
 * Estimación de Parámetros
 * Bases de Datos de Activos Financieros y Ajuste

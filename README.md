@@ -61,7 +61,8 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 * Simulación del Movimiento Browniano usando Incrementos Normales
 #### 4.2 MB2_SimulaciónUsandoMovimientoBrowniano
 * Puente Browniano
-* Movimiento Browniano Geométrico y Ecuación de Black Scholes
+* Movimiento Browniano Geométrico y Valuación de Opciones Financieras
+* Estimación de Parámetros del MBG
 
 
 

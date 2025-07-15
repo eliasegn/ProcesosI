@@ -59,7 +59,7 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 #### 4.1 MB1_MovimientoBrowniano
 * Simulación del Movimiento Browniano desde una Caminata Aleatoria
 * Simulación del Movimiento Browniano usando Incrementos Normales
-#### 4.2 MB2_SimulaciónUsandoMovimientoBrowniano
+#### 4.2 MB2_TemasSobreMovimientoBrowniano
 * Puente Browniano
 * Movimiento Browniano Geométrico y Valuación de Opciones Financieras
 * Estimación de Parámetros del MBG

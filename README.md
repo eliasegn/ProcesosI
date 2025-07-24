@@ -62,7 +62,7 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 #### 4.2 MB2_MovimientoBrownianoGeométrico
 * Simulacion y Propiedades del Movimiento Browniano Geométrico
 * Estimación de Parámetros
-* Activos Financieros y Ajuste de una Base de Datos
+* Activos Financieros y Ajuste de una Base de Datos (se usa MB2_Apple.txt)
 
 ## 💻 Recursos para aprender Python
 

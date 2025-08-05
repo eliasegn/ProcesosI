@@ -52,8 +52,8 @@ Material complementario de simulación para el curso de Procesos Estocásticos I
 ### 3. Martingalas
 #### 3.1 M1_Martingalas
 * Simulación de Estrategias de Juego
+* Doblar la Apuesta
 * Modelo Binomial
-* Ruina del Jugador
 
 ### 4. Movimiento Browniano
 #### 4.1 MB1_MovimientoBrowniano

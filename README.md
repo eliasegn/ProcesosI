@@ -3,7 +3,6 @@
 Material complementario de simulación para el curso de Procesos Estocásticos I
 
 ---
-![](https://media.tenor.com/_DKcSyv08fEAAAAM/movimento-browniano.gif)
 ---
 
 ## 📂 Índice

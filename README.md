@@ -3,6 +3,7 @@
 Material complementario de simulación para el curso de Procesos Estocásticos I
 
 ---
+<img width="615" height="397" alt="image" src="https://github.com/user-attachments/assets/8a452b43-c3e1-48f0-b819-6af386572249" />
 ---
 
 ## 📂 Índice
